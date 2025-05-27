@@ -13,3 +13,7 @@ An AI-powered focus and fatigue detection system using computer vision and deep 
 - Tkinter or Streamlit (optional UI)
 
 ## 📁 Folder Structure
+
+## Additional Features 
+- Will also include basic productivity features like pomodero timer.
+- Fancy digital clock to determine total productivity in a day. 
